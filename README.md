@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Snehal Borkar
+![git web img](https://github.com/user-attachments/assets/6743936d-00e4-4ba1-a316-d1fc42a22ba8)
+- Hi 👋, I'm Snehal Borkar
 - 👀 A passionate frontend developer from India
 - 🌱 I’m currently learning Java, MERN stack
 - 📫 How to reach me snehalborkar2004@gmail.com
